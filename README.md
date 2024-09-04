@@ -1,5 +1,6 @@
 # Outcome-Process Combined Supervision of Multi-Hop Knowledge-Augmented Generation
 This repository contains the codebase and the report for UCLA's CS269: Foundation Models final project. 
+Team Members: Parshan Teimouri, Chengdi Cao, Tang Mohan
 
 ## Citation
 
